@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta viewport content="width=device-width, initial-scale=1.0">
+    <title>All About: Clash Royale</title>
+    <link rel="icon" type="image/png" href="/assets/clash-royale-png-46155.png">
+</head>
+<style>
+    table, th, td {
+        border: 1px solid black;
+        width: 25%;
+        text-align: center;
+    }
+</style>
+<body>
+    <img src="/assets/Clash-Royale-Logo.png" width="128"><br>
+    <h1>All About Clash Royale</h1>
+    <sub>This is why we clash</sub>
+    <hr>
+    Pages: <a href="https://timg-a.github.io/CS3_2ndQtrPortfolio_Cs12GALEOS/">Home</a> <a href="https://juan8622.github.io/2ndQuarterRepositoryMendozaJuanPortfolio/">Characters</a> <a href="https://raymond-calitis.github.io/2ndQuarterRepositoryCalitisRaymondPortfolio/">Best Decks Per Arena</a> <a href="https://hans2228.github.io/2ndQuarterRepositoryAnunciacionHansPortfolio/">Streamers Who Play</a>
+    <h2>What is Clash Royale?</h2>
+
+    <p>Clash Royale is a strategy game focused on collecting cards and battling others. The game
+        makes players defend their towers with characters in the form of cards. There are two side
+        towers and one main tower, which has a king sitting on a throne on it. Destroying a tower
+        gives the player one crown, and the first player to destroy all towers or destroy the king's
+        tower wins. There are also different arenas, which have different conditions from each other,
+        allowing for different characters to be used in different arenas. Make sure to see our
+        <a href="https://raymond-calitis.github.io/2ndQuarterRepositoryCalitisRaymondPortfolio">Best Decks per Arena</a> section for more information.
+        The game is ranked, with a player's rating being shown through trophies, which can
+        be gained or lost in games. Below is a screenshot of a game of Clash Royale:<br><br><br>
+        
+        1v1<br>
+        <img src="/assets/Clash_Royale_screenshot_2018.jpg">
+        
+        <br><br>
+
+        2v2<br>
+        <img src="/assets/Clash_Royale_2v2.jpg">
+
+        <br><br>
+
+        The game was developed by Supercell and released on March 2, 2016 as a Clash of Clans spinoff.
+        The addictive gameplay and combined elements of card, tower defense, and strategy games had an
+        immediate effect, as by 2017, the game had made 1 billion dollars. In 3 years, it had made 2.5
+        billion. It was also well-received by users and critics, evidenced by the data shown below.<br>
+
+        <table>
+            <tr>
+                <th>Platform</th>
+                <th>Rating (%)</th>
+            </tr>
+            <tr>
+                <td>Metacritic</td>
+                <td>85</td>
+            </tr>
+            <tr>
+                <td>Google Play</td>
+                <td>88</td>
+            </tr>
+            <tr>
+                <td>iOS App Store</td>
+                <td>92</td>
+            </tr>
+        </table>
+
+        <br>
+
+        It has also experienced a re-surge in popularity in 2025 after a decline in 2020, as content
+        creators came back to the game, popularizing it to the masses once again and making the game
+        reach its highest player count in years.
+
+        <br><br>
+        
+        Below, you can find videos that contain more information on the
+        game's entire history and how to play. [ctto]
+    </p><br>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=DzvAVLzhQVI&pp=ygUUd2hhdCBpcyBjbGFzaCByb3lhbGU%3D">Video 1</a><br>
+        <iframe src="https://www.youtube.com/watch?v=DzvAVLzhQVI&pp=ygUUd2hhdCBpcyBjbGFzaCByb3lhbGU%3D"></iframe><br><br></li>
+        <li><a href="https://www.youtube.com/watch?v=uXzhLQbrVOI">Video 2</a><br>
+        <iframe src="https://www.youtube.com/watch?v=uXzhLQbrVOI"></iframe></li>
+    </ul>
+</body>
+</html>
