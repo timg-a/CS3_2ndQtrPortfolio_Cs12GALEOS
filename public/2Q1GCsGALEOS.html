@@ -8,9 +8,29 @@
 </head>
 <style>
     table, th, td {
-        border: 1px solid black;
+        border: 1px solid #ddd;
         width: 25%;
         text-align: center;
+    }
+
+    body {
+        font-family: 'Segoe UI';
+        color: #ddd;
+        background-color: #111;
+    }
+
+    a {
+        color: gold;
+    }
+
+    @keyframes scaleup {
+        0% {}
+        1% {scale: 1.15;}
+    }
+
+    img:hover {
+        animation-name: scaleup;
+        animation-duration: 100s;
     }
 </style>
 <body>
